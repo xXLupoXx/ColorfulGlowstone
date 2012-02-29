@@ -1,0 +1,11 @@
+name: ColorfulGlowstone
+main: me.xXLupoXx.ColorfulGlowstone.ColorfulGlowstone
+version: 0.0.1
+
+authors:
+  - xXLupoXx
+depend: [Spout]
+
+commands:
+  test:
+      description: Save Zones to Yaml

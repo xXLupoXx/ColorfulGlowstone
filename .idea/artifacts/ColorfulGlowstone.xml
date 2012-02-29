@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="ColorfulGlowstone">
+    <output-path>C:/Bukkit/plugins</output-path>
+    <root id="archive" name="ColorfulGlowstone.jar">
+      <element id="module-output" name="ColorfulGlowstone" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/plugin.yml" />
+    </root>
+  </artifact>
+</component>
